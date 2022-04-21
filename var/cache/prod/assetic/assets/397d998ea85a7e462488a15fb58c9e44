@@ -1,0 +1,22 @@
+.full-screen{
+    min-height: 100vh;
+}
+.elementor-icon{
+    line-height: 0;
+}
+.elementor-icon-box-description a{
+    color: #fab915
+}
+.elementor-icon-box-content h3 a{
+    cursor: default;
+}
+.elementor-icon-box-description:not(:last-of-type){
+    margin-bottom: 10px;
+}
+
+.txt-wrap{
+    display: none;
+}
+.m-b-2{
+    margin-bottom: 2rem;
+}

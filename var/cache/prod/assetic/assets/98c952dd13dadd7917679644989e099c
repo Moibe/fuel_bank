@@ -1,0 +1,595 @@
+.elementor-4059 .elementor-element.elementor-element-xg0v32k {
+    background-image: url("../../bundles/app/images/theme/what_bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 120px 0px 127px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-xg0v32k>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-zjxabkw>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-zjxabkw>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-bd5d7ic>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-bd5d7ic>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-0wzlps6 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-huonkt1 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-divn51d .elementor-divider-separator {
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #fab915;
+    width: 25%;
+}
+.elementor-4059 .elementor-element.elementor-element-divn51d .elementor-divider {
+    text-align: left;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+.elementor-4059 .elementor-element.elementor-element-divn51d>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-divn51d .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-ikbbuqt>.elementor-widget-container {
+    padding: 30px 0px 14px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-ikbbuqt .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-08pe1vj a.elementor-button,
+.elementor-4059 .elementor-element.elementor-element-08pe1vj .elementor-button {
+    border-radius: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-08pe1vj>.elementor-widget-container {
+    border-radius: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-08pe1vj .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-0ll08sh {
+    background-color: #192028;
+    background-image: url("../../bundles/app/images/theme/buy-bg-one.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 120px 0px 125px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-0ll08sh>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-h9n5fbm>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-h9n5fbm>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-brtcxtp .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-zw0i4t7 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-527a3bj .elementor-divider-separator {
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #fab915;
+    width: 25%;
+}
+.elementor-4059 .elementor-element.elementor-element-527a3bj .elementor-divider {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+.elementor-4059 .elementor-element.elementor-element-527a3bj .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-3gi05m4>.elementor-widget-container {
+    padding: 15px 105px 1px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-3gi05m4 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-pm2ttsr a.elementor-button,
+.elementor-4059 .elementor-element.elementor-element-pm2ttsr .elementor-button {
+    border-radius: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-pm2ttsr>.elementor-widget-container {
+    border-radius: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-pm2ttsr .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-xzsruu2.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+.elementor-4059 .elementor-element.elementor-element-xzsruu2>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget {
+    margin-bottom: 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-xzsruu2>.elementor-element-populated {
+    background-image: url("../../bundles/app/images/theme/macbook.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-xzsruu2>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-jxhfrug {
+    background-image: url("../../bundles/app/images/theme/step-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0 0px 10px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-jxhfrug>.elementor-background-overlay {
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-bpe232v>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-bpe232v>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-j0hc5x6 {
+    text-align: center;
+}
+.elementor-4059 .elementor-element.elementor-element-j0hc5x6 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-9qa9puy {
+    text-align: center;
+}
+.elementor-4059 .elementor-element.elementor-element-9qa9puy .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-91przpf .elementor-divider-separator {
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #fab915;
+    width: 13%;
+}
+.elementor-4059 .elementor-element.elementor-element-91przpf .elementor-divider {
+    text-align: center;
+    padding-top: 26px;
+    padding-bottom: 26px;
+}
+.elementor-4059 .elementor-element.elementor-element-91przpf .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-44gcpep {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 9px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-44gcpep>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-c1p8342>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-c1p8342>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-6hearvn.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-6hearvn.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-6hearvn.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-6hearvn .elementor-icon i {
+    transform: rotate(0deg);
+}
+.elementor-4059 .elementor-element.elementor-element-6hearvn .elementor-icon {
+    border-width: 5px 5px 5px 5px;
+}
+.elementor-4059 .elementor-element.elementor-element-6hearvn .elementor-icon-box-content .elementor-icon-box-description {
+    font-size: 16px;
+}
+.elementor-4059 .elementor-element.elementor-element-6hearvn .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-t9ihkno>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-t9ihkno>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-kb841do.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-kb841do.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-kb841do.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-kb841do .elementor-icon i {
+    transform: rotate(0deg);
+}
+.elementor-4059 .elementor-element.elementor-element-kb841do .elementor-icon {
+    border-width: 5px 5px 5px 5px;
+}
+.elementor-4059 .elementor-element.elementor-element-kb841do .elementor-icon-box-content .elementor-icon-box-description {
+    font-size: 16px;
+}
+.elementor-4059 .elementor-element.elementor-element-kb841do .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-prd3ooi>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-prd3ooi>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-3enmiaw.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-3enmiaw.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-3enmiaw.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 15px;
+}
+.elementor-4059 .elementor-element.elementor-element-3enmiaw .elementor-icon i {
+    transform: rotate(0deg);
+}
+.elementor-4059 .elementor-element.elementor-element-3enmiaw .elementor-icon {
+    border-width: 5px 5px 5px 5px;
+}
+.elementor-4059 .elementor-element.elementor-element-3enmiaw .elementor-icon-box-content .elementor-icon-box-description {
+    font-size: 16px;
+}
+.elementor-4059 .elementor-element.elementor-element-3enmiaw .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-6xtu0aa {
+    background-image: url("../../bundles/app/images/theme/serv-bg-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 131px 0px 74px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-6xtu0aa>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-gax3cz4>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 173px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-gax3cz4>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-gac2t2a .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-9tmzsjl>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 173px;
+}
+.elementor-4059 .elementor-element.elementor-element-9tmzsjl>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-kk8gi03 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-3cw6cio {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 131px 0px 74px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-3cw6cio>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-2hdnzyd>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 173px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-2hdnzyd>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-uzmcbqx .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-wk3o4fm>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 173px;
+}
+.elementor-4059 .elementor-element.elementor-element-wk3o4fm>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-niy9vxk .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-81q2nd7 {
+    background-image: url("../../bundles/app/images/theme/know-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 127px 0px 130px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-81q2nd7>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-17ph00j.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+.elementor-4059 .elementor-element.elementor-element-17ph00j>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-17ph00j>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-3cju76i {
+    text-align: left;
+}
+.elementor-4059 .elementor-element.elementor-element-3cju76i .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-nfvw2ir.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+.elementor-4059 .elementor-element.elementor-element-nfvw2ir>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-nfvw2ir>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-io433bo a.elementor-button,
+.elementor-4059 .elementor-element.elementor-element-io433bo .elementor-button {
+    border-radius: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-io433bo .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-38ucax1 {
+    background-image: url("../../bundles/app/images/theme/feddback-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 180px 0px 156px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-38ucax1>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-cdug31y>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-cdug31y>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-d6ggzm4>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-d6ggzm4>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-h3j8yte .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-lijc18f .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-av5a929 .elementor-divider-separator {
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #fab915;
+    width: 25%;
+}
+.elementor-4059 .elementor-element.elementor-element-av5a929 .elementor-divider {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.elementor-4059 .elementor-element.elementor-element-av5a929 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-bq8hmnl>.elementor-widget-container {
+    padding: 18px 50px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-bq8hmnl .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-vg92l7m {
+    background-image: url("../../bundles/app/images/theme/culc-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 119px 0px 126px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-vg92l7m>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-xkx3ie8>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-xkx3ie8>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-t3bv13q .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-89kvzv4 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-7mi0c0m .elementor-divider-separator {
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #fab915;
+    width: 25%;
+}
+.elementor-4059 .elementor-element.elementor-element-7mi0c0m .elementor-divider {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.elementor-4059 .elementor-element.elementor-element-7mi0c0m .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-mg6d810 .elementor-heading-title {
+    color: #fab915;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: none;
+}
+.elementor-4059 .elementor-element.elementor-element-mg6d810>.elementor-widget-container {
+    padding: 17px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-mg6d810 .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-hpl59tv>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-hpl59tv .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-tpiefve .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-7xt759p a.elementor-button,
+.elementor-4059 .elementor-element.elementor-element-7xt759p .elementor-button {
+    border-radius: 0px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-7xt759p>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 16px 0px 0px 0px;
+}
+.elementor-4059 .elementor-element.elementor-element-7xt759p .elementor-widget-container {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-ksd8atu>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-4059 .elementor-element.elementor-element-ksd8atu>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+@media(max-width:1024px) {
+    .elementor-4059 .elementor-element.elementor-element-h9n5fbm > .elementor-element-populated {
+        padding: 0px 0px 0px 40px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-91przpf .elementor-divider-separator {
+        width: 20%;
+    }
+    .elementor-4059 .elementor-element.elementor-element-gax3cz4 > .elementor-element-populated {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-9tmzsjl > .elementor-element-populated {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-2hdnzyd > .elementor-element-populated {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-wk3o4fm > .elementor-element-populated {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-17ph00j > .elementor-element-populated {
+        padding: 0px 0px 0px 41px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-nfvw2ir > .elementor-element-populated {
+        padding: 0px 40px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-xkx3ie8 > .elementor-element-populated {
+        padding: 0px 0px 0px 40px;
+    }
+}
+@media(min-width:768px) {
+    .elementor-4059 .elementor-element.elementor-element-h9n5fbm {
+        width: 50%;
+    }
+    .elementor-4059 .elementor-element.elementor-element-xzsruu2 {
+        width: 50%;
+    }
+    .elementor-4059 .elementor-element.elementor-element-jxhfrug {
+        background-attachment: fixed;
+    }
+    .elementor-4059 .elementor-element.elementor-element-17ph00j {
+        width: 67%;
+    }
+    .elementor-4059 .elementor-element.elementor-element-nfvw2ir {
+        width: 33%;
+    }
+    .elementor-4059 .elementor-element.elementor-element-xkx3ie8 {
+        width: 55%;
+    }
+    .elementor-4059 .elementor-element.elementor-element-ksd8atu {
+        width: 45%;
+    }
+}
+@media(max-width:767px) {
+    .elementor-4059 .elementor-element.elementor-element-xg0v32k {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-0ll08sh {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-h9n5fbm > .elementor-element-populated {
+        padding: 0px 0px 0px 15px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-3gi05m4 > .elementor-widget-container {
+        padding: 0px 15px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-jxhfrug {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-91przpf .elementor-divider-separator {
+        width: 25%;
+    }
+    .elementor-4059 .elementor-element.elementor-element-t9ihkno > .elementor-element-populated {
+        padding: 60px 0px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-prd3ooi > .elementor-element-populated {
+        padding: 70px 0px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-6xtu0aa {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-3cw6cio {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-81q2nd7 {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-17ph00j > .elementor-element-populated {
+        padding: 0px 0px 0px 15px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-nfvw2ir > .elementor-element-populated {
+        padding: 0px 15px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-io433bo > .elementor-widget-container {
+        padding: 35px 0px 0px 15px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-38ucax1 {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-bq8hmnl > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-vg92l7m {
+        padding: 40px 0px 40px 0px;
+    }
+    .elementor-4059 .elementor-element.elementor-element-xkx3ie8 > .elementor-element-populated {
+        padding: 0px 0px 0px 15px;
+    }
+}
